@@ -1,0 +1,54 @@
+
+h1 {
+      text-align: center;
+  }
+h2 {
+      text-align: center;
+}
+h3 {
+      text-align: center;
+  }
+
+h4 {
+      text-align: center;
+}
+
+.new {
+      border: 2px solid rgba(143, 15, 15, 0.336);
+      border-radius: 2%;
+      text-align: justify;
+}
+p {
+
+      text-align: center;
+}
+ul {
+      text-align: left;
+}
+a {
+      display: block;
+      text-align: center;
+      
+}   
+li  {
+    align-content: center;
+
+}
+
+
+body {
+    color: #6b4423;
+    background-color: #f5efe6;
+        background-image: url();
+        background-repeat: no-repeat;
+        background-position: right top;
+        background-attachment: scroll;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 40px;   
+
+}
+
+
+
+
